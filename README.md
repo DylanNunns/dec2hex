@@ -1,9 +1,11 @@
 # dec2hex
+
+## Description:
 Convert a Decimal value to a Hexadecimal value
 
-Usage:
+## Usage:
 
-## Html File
+#### Html File
 ```
 <html>
   <head>
@@ -19,7 +21,7 @@ Usage:
 </html>
 ```
 
-## Console Output
+#### Console Output
 ```
 3ADE68B1
 ```
