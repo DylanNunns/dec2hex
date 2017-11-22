@@ -1,7 +1,7 @@
 /**
  * Convert the Decimal value to its Hexadecimal counterpart
  */
-function decimal_to_hexadecimal(decimal = 0) {
+function dec2hex(decimal = 0) {
     const _hexadecimal = ['0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'];
     for (var hex = []; 0 != decimal;) {
         hex.unshift(_hexadecimal[decimal % 16]);
